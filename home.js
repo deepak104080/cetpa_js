@@ -1,6 +1,3 @@
-// How JS Runs
-// Global vs Local Scope
-
 var test =5;
 console.log('value of a - ', test);
 
@@ -90,11 +87,14 @@ var person = {
     city: 'Delhi'
 }
 
+var array = [1,2,3,4,5,6];
+
+let obj = {
+    name: 'Deepak',
+    addr: 'Delhi',
+    state: 'Delhi',
+    country: 'India'
+}
 
 
-// Next Day
-// object in detail
-// object oriented js
-// array
-// ready made methods - array, objects
-// ES6
+// Hoisting - https://jsfiddle.net/deepak104080/7xvocr68/1/
