@@ -95,6 +95,3 @@ let obj = {
     state: 'Delhi',
     country: 'India'
 }
-
-
-// Hoisting - https://jsfiddle.net/deepak104080/7xvocr68/1/

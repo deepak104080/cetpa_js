@@ -1,0 +1,5 @@
+Hoisting - https://jsfiddle.net/deepak104080/7xvocr68/1/
+Event Loop - https://miro.medium.com/max/1400/1*iHhUyO4DliDwa6x_cO5E3A.gif
+
+Async JS - https://jsfiddle.net/deepak104080/teoxq018/4/
+Promise - https://jsfiddle.net/deepak104080/a0tjxsnp/3/

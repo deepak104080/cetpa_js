@@ -25,7 +25,22 @@
 // Selectio of elements in DOM - tag, class, id - unique
 var elem = document.getElementById('main_left');
 console.log(elem);
+// var elem2 = document.getElementsByClassName - array of elements
+// document.getElementsByTagName
+console.log(document.querySelector('.main_center p'));
+//  - single elem
+console.log(document.querySelectorAll('.main_center p'));
+//  - array of elements
 
+function fn_click() {
+    console.log('button clicked....');
+    var temp_name = document.getElementById('input_name').value;
+    console.log(temp_name);
+}
+
+// DOM Events - click, hover, mouseout, focus, blur
+var temp_button = document.getElementById('button_name');
+temp_button.addEventListener('click', fn_click);
 
 // window.console.log
 // window.alert
