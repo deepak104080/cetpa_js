@@ -1,0 +1,338 @@
+4TH APRIL, 2022 (DAY 1 – MONDAY/1 HOUR)
+JAVASCRIPT Basics 
+•	Basic JavaScript
+•	Object Based JavaScript
+•	Variables and Functions
+•	Data Types
+
+
+6TH APRIL, 2022 (DAY 2– WEDNESDAY/1 HOUR)
+JAVASCRIPT Basics
+•	Scope
+•	Hoisting
+•	DOM Basics
+
+
+8TH APRIL, 2022 (DAY 3– FRIDAY/1 HOUR)
+JAVASCRIPT Basics 
+•	DOM and DOM Events
+•	BOM
+•	Event Loop
+•	Async JS
+•	Promise
+
+
+9TH APRIL, 2022 (DAY 4– SATURDAY/3 HOURS)
+INTRODUCTION TO REACT 
+•	Real-time environmental setup with GitHub 
+•	What React JS? 
+•	Why React JS? 
+•	What is Single Page Application? 
+•	Why SPA? 
+•	React JS Version 
+•	What is CLI : create-react-app project name
+•	Advantage using CLI 
+•	How to debug React JS application
+•	What is Virtual DOM?
+•	Installation CLI 
+•	Create a hello world example 
+•	React Concepts 
+•	JSX 
+•	TSX
+
+
+11TH APRIL, 2022 (DAY 5– MONDAY/1 HOUR)
+ES6
+•	API Call with Fetch
+•	Introduction to ES6 
+•	Arrow function 
+•	String Literals 
+•	Destructuring
+•	Rest parameters and spread operator
+
+
+13TH APRIL, 2022 (DAY 6– WEDNESDAY/1 HOUR)
+INTRODUCTION TO TYPESCRIPT 
+•	JavaScript Helpers (for Each, filter, map, filter, every, some)
+•	Class: Inheritance, constructor 
+•	Why Use TypeScript
+•	Basic Types 
+•	Classes and Interfaces 
+•	Type Definitions 
+•	Compiling TypeScript
+
+
+
+15TH APRIL, 2022 (DAY 7– FRIDAY/1 HOUR)
+INTRODUCTION TO REACTJS 
+•	Render Elements 
+•	Components and Types 
+•	State and Props
+
+16TH APRIL, 2022 (DAY 8– SATURDAY/3 HOURS)
+REACT CLASS COMPONENTS
+•	Class Components
+•	Mini Application – Counter
+•	Lifecycle methods
+•	Mini Application
+•	Handling Events 
+
+
+18TH APRIL, 2022 (DAY 9– MONDAY/1 HOUR)
+FEATURES OF REACTJS 
+•	Conditional Rendering 
+•	Lists and Keys 
+•	Functional Components
+
+
+20TH APRIL, 2022 (DAY 10 – WEDNESDAY/1 HOUR)
+REACTJS HOOKS
+•	What is React Hooks
+•	How to Implement useState Hooks
+
+
+22ND APRIL, 2022 (DAY 11 – FRIDAY/1 HOUR)
+HOOKS
+•	Mini Project – React Hooks
+
+
+23RD APRIL, 2022 (DAY 12 – SATURDAY/3 HOURS)
+HOOKS AND API CALL
+•	How to Use useEffect
+•	REST API and Postman
+•	Network Call
+•	Interaction With Server
+•	Third Party Module(Axios)
+
+
+
+
+25TH APRIL, 2022 (DAY 13 – MONDAY DAY/1 HOUR)
+JSON SERVER
+•	Live Data Fetching (JSON Server)
+
+
+27TH APRIL, 2022 (DAY 14 – WEDNESDAY DAY/1 HOUR)
+REACT BOOTSTRAP AND UI ELEMENTS
+•	React Bootstrap
+•	Images and Files Handling in React
+
+
+29TH APRIL, 2022 (DAY 15 – FRIDAY/1 HOUR)
+REACT FEATURES
+•	Fragments
+•	Refs
+
+
+30TH APRIL, 2022 (DAY 16 – SATURDAY/3 HOURS)
+REACT ROUTER
+•	Setting up react router 
+•	Understand routing in single page applications 
+•	Working with Browser Router components 
+•	Configuring route with Route component 
+•	Making routes dynamic using route params
+•	Working with nested routes 
+•	Navigating to pages using Link and NavLink component 
+•	Redirect routes using RedirectComponent
+•	Understanding React event system
+•	Passing arguments to event handlers 
+
+
+2ND MAY, 2022 (DAY 17 – MONDAY/1 HOUR)
+FORMS IN REACT
+•	Controlled components 
+•	Uncontrolled Components
+•	Forms in React 
+
+
+4TH MAY, 2022 (DAY 18– WEDNESDAY/1 HOUR)
+FORMS EXTENDED
+•	Understand the significance to defaultValue prop 
+•	Using react ref prop to get access to DOM element 
+•	Handling Form Submission
+•	Validation in Forms
+
+
+6TH MAY, 2022 (DAY 19 – FRIDAY/1 HOUR)
+REACT HOC 
+•	HOC
+
+
+7TH MAY, 2022 (DAY 20 – SATURDAY/3 HOURS)
+REACT CONTEXT 
+•	Props Drilling
+•	React Context
+•	How to Implement and where to useContext
+•	Implementation of  Additional Hooks
+•	Lifting State Up
+
+
+9TH MAY, 2022 (DAY 21 – MONDAY/1 HOUR)
+REACT PROJECT 
+•	Mini Project - 1
+
+
+11TH MAY, 2022 (DAY 22– WEDNESDAY/1 HOUR)
+REACT PROJECT
+•Mini Project - 2
+
+
+13TH MAY, 2022 (DAY 23– FRIDAY/1 HOUR)
+NODEJS
+•NodeJS Intro and Basic Concepts
+
+
+14TH MAY, 2022 (DAY 24– SATURDAY/3 HOURS)
+NODEJS
+•NodeJS Built-In Modules
+
+
+16TH MAY, 2022 (DAY 25– MONDAY/1 HOUR)
+
+EXPRESS
+• Express Basics
+
+
+18TH MAY, 2022 (DAY 26– WEDNESDAY/1 HOUR)
+
+EXPRESS
+•Express Router and Middleware
+
+
+20TH  MAY, 2022 (DAY 27– FRIDAY/1 HOUR)
+
+EXPRESS
+•Express Request and Response
+
+
+21ST MAY, 2022 (DAY 28– SATURDAY/3 HOURS)
+
+DATABASE
+•MongoDB
+
+
+ 23RD MAY, 2022 (DAY 29– MONDAY/1 HOUR)
+
+REST API
+•Express REST API Creation
+
+
+25TH MAY, 2022 (DAY 30– WEDNESDAY/1 HOUR)
+REACT PROJECT
+• Implementing The Mini Project Deployment of React Application 
+
+
+
+
+27TH MAY, 2022 (DAY 31– FRIDAY/1 HOUR)
+REACT PROJECT
+• Implementing The Mini Project Deployment of React Application 
+
+
+28TH MAY, 2022 (DAY 32– SATURDAY/3 HOURS)
+REACT PROJECT
+• Implementing The Mini Project Deployment of React Application 
+
+
+30TH MAY, 2022 (DAY 33– MONDAYDAY/1 HOUR)
+MINI PROJECT
+• Implementing The Mini Project Deployment of React Application 
+
+
+1ST JUNE, 2022 (DAY 34 – WEDNESDAY/1 HOUR)
+INTRODUCTION TO REDUX 
+•	What is React Redux
+•	Why React Redux
+•	Redux Install and setup 
+•	Uses of state management
+
+
+3RD JUNE, 2022 (DAY 35 – FRIDAY/1 HOUR)
+INTRODUCTION TO REDUX 
+•	Components of Redux - Actions 
+•	Reducers 
+•	Store
+
+
+4TH JUNE, 2022 (DAY 36 – SATURDAY/3 HOURS)
+INTRODUCTION TO REDUX 
+•	Understanding mapStateToProps and mapDispatchtToProps usage
+•	Components of Redux toolkit
+•	Using Redux Toolkit for building applications
+
+
+6TH JUNE, 2022 (DAY 37 – MONDAY/1 HOUR)
+INTRODUCTION TO STATE MANAGEMENT LIBRARY
+•	Redux – Mini Project
+
+
+8TH JUNE, 2022 (DAY 38–WEDNESDAY/1 HOUR)
+INTRODUCTION TO STATE MANAGEMENT LIBRARY
+•	How to Implement Redux Operation Via useReducer
+
+
+10TH JUNE, 2022 (DAY 39 – FRIDAY/1 HOUR)
+INTRODUCTION TO STATE MANAGEMENT LIBRARY
+•	Redux – Mini Project
+
+
+11TH JUNE, 2022 (DAY 40– SATURDAY/3 HOURS)
+REACT PERFORMANCE AND SECURITY
+•	Performance optimization in React
+•	Security Pitfalls in React Applications
+
+
+13TH JUNE, 2022 (DAY 41– MONDAY/1 HOUR)
+REACT LIBRARIES
+•React – Third Party Libraries
+
+
+15TH JUNE, 2022 (DAY 42– WEDNESDAY/1 HOUR)
+REACT TESTING
+•React – Unit Testing
+
+
+17TH JUNE, 2022 (DAY 43– FRIDAY/1 HOUR)
+REACT TESTING
+•React – Unit Testing
+
+
+
+
+18TH JUNE, 2022 (DAY 44– SATURDAY/3 HOURS)
+REACT LIBRARIES
+•React – Graphs and Charts
+React – Best Engineering Practices – Lint, Flow, Sonar
+
+20TH JUNE, 2022 (DAY 45– MONDAY DAY/1 HOUR)
+REACT HOSTING
+• Back End and Front End– Hosting
+
+22ND JUNE, 2022 (DAY 47– WEDNESDAY/1 HOUR)
+MINI PROJECT
+Implementing React Application 
+
+24TH JUNE, 2022 (DAY 48– FRIDAY/1 HOUR)
+MINI PROJECT
+Implementing React Application 
+
+25TH JUNE, 2022 (DAY 49– SATURDAY/3 HOURS)
+MINI PROJECT
+Implementing React Application
+ 
+27TH JUNE, 2022 (DAY 50– MONDAY DAY/1 HOUR)
+MINI PROJECT
+• Back End and Front End– Hosting
+
+29TH JUNE, 2022 (DAY 51– WEDNESDAY/1 HOUR)
+MINI PROJECT
+Implementing React Application 
+
+1ST JULY, 2022 (DAY 52– FRIDAY/1 HOUR)
+MINI PROJECT
+Implementing React Application 
+
+2ND JULY, 2022 (DAY 53– SATURDAY/3 HOURS)
+MINI PROJECT
+Implementing React Application 
+
