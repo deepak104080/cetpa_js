@@ -1,32 +1,32 @@
 4TH APRIL, 2022 (DAY 1 – MONDAY/1 HOUR)
 JAVASCRIPT Basics 
-•	Basic JavaScript
+•	Basic JavaScript - Done
 •	Object Based JavaScript
-•	Variables and Functions
-•	Data Types
+•	Variables and Functions - Done
+•	Data Types - Done
 
 
 6TH APRIL, 2022 (DAY 2– WEDNESDAY/1 HOUR)
 JAVASCRIPT Basics
-•	Scope
-•	Hoisting
-•	DOM Basics
+•	Scope - Done
+•	Hoisting - Done
+•	DOM Basics - Done
 
 
 8TH APRIL, 2022 (DAY 3– FRIDAY/1 HOUR)
 JAVASCRIPT Basics 
-•	DOM and DOM Events
+•	DOM and DOM Events - Done
 •	BOM
-•	Event Loop
-•	Async JS
-•	Promise
+•	Event Loop - Done
+•	Async JS - Done
+•	Promise - Done
 
 
 9TH APRIL, 2022 (DAY 4– SATURDAY/3 HOURS)
 INTRODUCTION TO REACT 
 •	Real-time environmental setup with GitHub 
-•	What React JS? 
-•	Why React JS? 
+•	What React JS?  - Done
+•	Why React JS? - Done
 •	What is Single Page Application? 
 •	Why SPA? 
 •	React JS Version 
@@ -35,7 +35,7 @@ INTRODUCTION TO REACT
 •	How to debug React JS application
 •	What is Virtual DOM?
 •	Installation CLI 
-•	Create a hello world example 
+•	Create a hello world example - Done
 •	React Concepts 
 •	JSX 
 •	TSX
@@ -43,12 +43,12 @@ INTRODUCTION TO REACT
 
 11TH APRIL, 2022 (DAY 5– MONDAY/1 HOUR)
 ES6
-•	API Call with Fetch
-•	Introduction to ES6 
-•	Arrow function 
-•	String Literals 
-•	Destructuring
-•	Rest parameters and spread operator
+•	API Call with Fetch - Done
+•	Introduction to ES6 - Done
+•	Arrow function - Done
+•	String Literals - Done
+•	Destructuring - Done
+•	Rest parameters and spread operator - Done
 
 
 13TH APRIL, 2022 (DAY 6– WEDNESDAY/1 HOUR)
