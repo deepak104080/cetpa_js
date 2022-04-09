@@ -51,3 +51,12 @@ temp_button.addEventListener('click', fn_click);
 // console.log(temp);
 // temp - false (if cancel presses)
 // temp - '<name typed>' (if name typed and ok)
+
+
+fetch('https://api.coindesk.com/v1/bpi/currentprice.json')
+.then((resp) => {
+  return resp.json();
+})
+.then((data) => {
+  console.log(data.bpi);
+})

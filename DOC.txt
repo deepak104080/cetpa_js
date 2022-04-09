@@ -3,3 +3,11 @@ Event Loop - https://miro.medium.com/max/1400/1*iHhUyO4DliDwa6x_cO5E3A.gif
 
 Async JS - https://jsfiddle.net/deepak104080/teoxq018/4/
 Promise - https://jsfiddle.net/deepak104080/a0tjxsnp/3/
+
+API Call with fetch and Promise - https://jsfiddle.net/deepak104080/7xjw3efp/4/
+ES6 - https://jsfiddle.net/deepak104080/3s14fnqa/2/
+ES6 Misc - https://jsfiddle.net/deepak104080/3cb0huyp/2/
+Module Concept - https://jsfiddle.net/deepak104080/zth6ags1/2/
+
+
+React - https://github.com/deepak104080/cetpa_react
