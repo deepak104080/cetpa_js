@@ -30,14 +30,14 @@ INTRODUCTION TO REACT
 •	What is Single Page Application? 
 •	Why SPA? 
 •	React JS Version 
-•	What is CLI : create-react-app project name
+•	What is CLI : create-react-app project name - Done
 •	Advantage using CLI 
 •	How to debug React JS application
-•	What is Virtual DOM?
+•	What is Virtual DOM? - Done
 •	Installation CLI 
 •	Create a hello world example - Done
-•	React Concepts 
-•	JSX 
+•	React Concepts - Done
+•	JSX - Done
 •	TSX
 
 
@@ -65,8 +65,8 @@ INTRODUCTION TO TYPESCRIPT
 
 15TH APRIL, 2022 (DAY 7– FRIDAY/1 HOUR)
 INTRODUCTION TO REACTJS 
-•	Render Elements 
-•	Components and Types 
+•	Render Elements - Done
+•	Components and Types - Done
 •	State and Props
 
 16TH APRIL, 2022 (DAY 8– SATURDAY/3 HOURS)
