@@ -2,6 +2,8 @@ CETPA Infotech
 ------------------------------------
 MERN Stack
 ------------------------------------
+Training Tracker - https://docs.google.com/spreadsheets/d/19eGqpoCXfOZaxQmTQgLFM02nuGu6MW3_621z56sbZVU/edit?usp=sharing
+------------------------------------
 MOM of Kick-off Session
 ------------------------------------
 JavaScript vs Other Programming Languages
