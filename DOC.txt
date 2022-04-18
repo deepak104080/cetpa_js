@@ -10,4 +10,16 @@ ES6 Misc - https://jsfiddle.net/deepak104080/3cb0huyp/2/
 Module Concept - https://jsfiddle.net/deepak104080/zth6ags1/2/
 
 
+Array and Object Methods - https://jsfiddle.net/deepak104080/gfktpwxn/12/
+Reference - MDN - Mozilla Developer Network
+Array, Object, Date, String, Math
+
+
+Polyfills - https://jsfiddle.net/deepak104080/dvwmrg6z/27/
+Use of Polyfills - ES6(Replacement of Babel), Custom Functions
+Prototype - 
+
+Window - https://developer.mozilla.org/en-US/docs/Web/API/Window
+
+
 React - https://github.com/deepak104080/cetpa_react
