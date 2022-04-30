@@ -76,3 +76,53 @@ SQL - Connection and Basics
 Pre-Requisites :- VS Code, NodeJS - v14
 ------------------------------------
 Src - jsfiddle, doc, oldrepo md
+
+
+
+Use Strict - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+
+
+
+
+
+
+
+
+
+
+
+
+// TypeScript - Extension of JavaScript
+
+
+// A+ B = C
+// JS + TS = 
+
+
+
+// JS + x = TS
+
+
+// JS - data types
+// let num = 'string';
+// int num = 5;
+
+// Flow - static type checking
+// npm run flow
+
+
+
+// let a = 5;
+
+
+// let b = 'str';
+
+// a+b;
+
+
+// TypeScript
+install typescript in already running reat repo - manually do the changes
+install react with typescript template
+
+npx create-react-app <folder name>
+npx create-react-app <folder name> --template typescript
